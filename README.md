@@ -8,8 +8,8 @@ Just create and activate a virtualenv, then install requirements typing `pip ins
 
 ## Usage 
 
-1. Edit data/list.csv with your own data
-2. Edit assets/base.png with your own certificate image
+1. Edit `data/list.csv` with your own data
+2. Edit `assets/base.png` with your own certificate image
 3. If you want to modify sizes, positions, fonts, etc, edit `config.py`
 4. Run `python certgen.py` 
 
