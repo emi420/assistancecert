@@ -2,18 +2,18 @@
 # -*- coding: utf-8 -*-
 
 ''' 
- Certificate Generator
+ Assistance Certificate Generator
 
- You may use any Certificate Generator project under the terms
+ You may use any Assistance Certificate Generator project under the terms
  of the GNU General Public License (GPL) Version 3.
 
  (c) 2019 Emilio Mariscal (emi420 [at] gmail.com)
  
  Module description:
  
-    Certificate Generator
+    Assistance Certificate Generator
     
-    Generate assistance or completion certificates
+    A simple utility to make assistant certificates and save them on PDF. 
  
 '''
 
