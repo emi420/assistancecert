@@ -1,4 +1,4 @@
-<img width="995" alt="Screenshot 2023-07-06 at 00 16 54" src="https://github.com/emi420/assistancecert/assets/1226194/90587e42-7948-4b14-a632-5cf52db09dd8"># Assistance Certificate Generator
+# Assistance Certificate Generator
 
  A simple utility to make assistant certificates and save them on PDF. 
 
@@ -13,7 +13,7 @@ Just create and activate a virtualenv, then install requirements typing `pip ins
 3. If you want to modify sizes, positions, fonts, etc, edit `config.py`
 4. Run `python certgen.py` 
 
-![Uploading Screenshot 2023-07-06 at 00.16.54.png…]()
+<img width="995" alt="Screenshot 2023-07-06 at 00 16 54" src="https://github.com/emi420/assistancecert/assets/1226194/90587e42-7948-4b14-a632-5cf52db09dd8">
 
 ## License
 
