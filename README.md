@@ -15,7 +15,7 @@ Just create and activate a virtualenv, then install requirements typing `pip ins
 3. If you want to modify sizes, positions, fonts, etc, edit `config.py`
 4. Run `python certgen.py` 
 
-# CSV
+## CSV
 
 The CSV file should have two columns, `name` and  `field 2`, like this:
 
@@ -34,7 +34,7 @@ This will start a webserver to which you can send requests with the fields:
 
 PDF files will be saved in the `OUT_DIR` directory.
 
-# Config
+## Config
 
 Name, _field 2_ and a random hash (id) will be rendered over the background image (base file).
 
