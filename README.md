@@ -38,9 +38,9 @@ PDF files will be saved in the `OUT_DIR` directory.
 
 Name, _field 2_ and a random hash (id) will be rendered over the background image (base file).
 
-* `NAME_FONT` - Path for using when rendering the the `name`
-* `FIELD_2_FONT` - Path for using when rendering the the `field 2`
-* `ID_FONT` - Path for using when rendering the the `id`
+* `NAME_FONT` - Font path and size for rendering the the `name`
+* `FIELD_2_FONT` - Font path and size for rendering the the `field 2`
+* `ID_FONT` - Font path and size for rendering the the `id`
 * `FIELD_2_PREFIX` - A prefix for the _field 2_
 * `NAME_PREFIX` - A prefix for the name
 * `FILENAME` - Field to use for the PDF filename (`name` or `field_2`)
