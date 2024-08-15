@@ -6,7 +6,7 @@ FIELD_2_FONT = ImageFont.truetype("assets/BarlowCondensed-Thin.ttf", 47)
 ID_FONT = ImageFont.truetype("assets/BarlowCondensed-Thin.ttf", 30)
 TEXT_LEFT_POSITION = 515
 
-FIELD_2_PREFIX = "DNI "
+FIELD_2_PREFIX = ""
 NAME_PREFIX = ""
 
 # FILENAME = "name"
