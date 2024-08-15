@@ -2,6 +2,8 @@
 
  A simple utility to make assistant certificates and save them on PDF. 
 
+ <img width="995" alt="Screenshot 2023-07-06 at 00 16 54" src="https://github.com/emi420/assistancecert/assets/1226194/90587e42-7948-4b14-a632-5cf52db09dd8">
+
 ## Install
 
 Just create and activate a virtualenv, then install requirements typing `pip install -r reqs.txt`
@@ -56,10 +58,8 @@ Name, _field 2_ and a random hash (id) will be rendered over the background imag
 * `SERVER` - Run as a webswerver
 * `SERVER_PORT` - Port when using the web server
 
-
-
 ## License
 
 You may use this project under the terms of either the MIT License or the GNU General Public License (GPL) Version 3.
 
-(c) 2019 Emilio Mariscal
+(c) 2019-2024 Emilio Mariscal
