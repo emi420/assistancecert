@@ -26,5 +26,5 @@ BASE_FILE = "assets/base.png"
 OUT_DIR = "out/"
 OUT_PREFIX = ""
 
-SERVER = True
+SERVER = False
 SERVER_PORT = 8001
